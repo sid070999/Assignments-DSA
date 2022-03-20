@@ -1,1 +1,1 @@
-# Assignment-1
+# Data structures and algorithms assignments
